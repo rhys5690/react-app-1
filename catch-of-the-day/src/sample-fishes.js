@@ -72,5 +72,3 @@ module.exports = {
     status: 'available'
   }
 };
-
-export default modules.export
